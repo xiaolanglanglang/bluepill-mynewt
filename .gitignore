@@ -31,3 +31,4 @@ tags
 *.swo
 repos
 apps/*/target/
+.idea/

@@ -11,7 +11,7 @@ extern "C" {
 
 extern crate panic_halt;
 
-const OS_TICKS_PER_SEC: u32 = 128;
+const OS_TICKS_PER_SEC: u32 = 1000;
 
 const LED_BLINK_PIN: i32 = 45;
 

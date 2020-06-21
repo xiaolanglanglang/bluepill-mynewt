@@ -1,5 +1,5 @@
 [package]
-name = "blinky"
+name = "app"
 version = "0.1.0"
 authors = ["xiaolanglang <2145773+xiaolanglanglang@users.noreply.github.com>"]
 edition = "2018"

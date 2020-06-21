@@ -1,4 +1,4 @@
-pkg.name: targets/bluepill_blinky
+pkg.name: targets/bluepill_app
 pkg.type: target
 pkg.description: 
 pkg.author: 
